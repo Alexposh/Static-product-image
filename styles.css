@@ -1,0 +1,28 @@
+body {
+  background: rgb(236, 221, 192);
+}
+
+a {
+  text-decoration: none;
+  background-color: black;
+  color: aliceblue;
+  padding: 15px;
+  border-radius: 5%;
+  margin: 5px;
+}
+
+img {
+  width: 85%;
+  padding: 4%;
+  margin: 15px;
+}
+
+.card {
+  border: 2px solid blue;
+  margin: 25px;
+  background-color: rgba(206, 113, 113, 0.438);
+}
+p,
+h5 {
+  padding: 0 25px;
+}
